@@ -78,3 +78,4 @@ Platforms/HoloLens/Config/HoloLensEngine.ini
 .idea/**
 
 Content/
+.p4one/
